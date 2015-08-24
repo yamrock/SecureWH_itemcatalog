@@ -7,7 +7,7 @@ Hardened Ubuntu server, apache webserver using wsgi mod to serve a flask app
 ###The complete URL to your hosted web application:
 http://52.24.66.8
 
-###A summary of software you installed and configuration changes made:
+###A summary of software installed and configuration changes made:
 ####Software installed:
 * Apache web server
 * PostgreSQL
@@ -15,7 +15,7 @@ http://52.24.66.8
 * SQLAlchemy
 * Python PIP
 * Git
-* Dependencies for the application as described by this webapp [readme] (https://github.com/yamrock/itemcatalog)
+* Dependencies for the application as described by this webapp's [readme] (https://github.com/yamrock/itemcatalog)
 
 ####Configuration changes
 * Created a user called grader
