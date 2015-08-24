@@ -17,6 +17,7 @@ http://52.24.66.8
 * Git
 * Dependencies for the application as described by this webapp's [readme] (https://github.com/yamrock/itemcatalog)
 * fail2ban (SSH multiple failure logging/banning)
+* monit (file and application server monitoring)
 
 ####Configuration changes
 * Created a user called grader
@@ -35,4 +36,5 @@ http://flask.pocoo.org/docs/0.10/deploying/mod_wsgi/ : To integrate apache's wsg
 http://stackoverflow.com : General troubleshooting
 [Fail2ban tutorial](https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-ubuntu-14-04)
 [ubuntu cron](https://help.ubuntu.com/community/CronHowto)
+[Monit configuration](https://mmonit.com/wiki/Monit/ConfigurationExamples)
 
