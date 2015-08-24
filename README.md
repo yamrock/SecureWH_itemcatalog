@@ -16,6 +16,7 @@ http://52.24.66.8
 * Python PIP
 * Git
 * Dependencies for the application as described by this webapp [readme] (https://github.com/yamrock/itemcatalog)
+
 ####Configuration changes
 * Created a user called grader
 * Updated sshd_config to listen on port 2200 instead of 22
