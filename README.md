@@ -28,9 +28,11 @@ http://52.24.66.8
 * Edited ~grader/itemcatalog/application.py, helper.py etc to remove relative links and replaced them with full paths
 * Updated the app in developers.facebook.com to use the new url http://52.24.66.8
 * Updated fail2ban's jail.conf in jail.local to enable monitoring for multiple unsuccessful SSH attempts on port 2200, and banning those IPs.
+* Introduced a crontab to check for updates and upgrade the server weekly
 
 ###A list of any third-party resources 
 http://flask.pocoo.org/docs/0.10/deploying/mod_wsgi/ : To integrate apache's wsgi module with flask app
 http://stackoverflow.com : General troubleshooting
 [Fail2ban tutorial](https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-ubuntu-14-04)
+[ubuntu cron](https://help.ubuntu.com/community/CronHowto)
 
