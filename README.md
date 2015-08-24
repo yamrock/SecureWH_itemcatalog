@@ -33,8 +33,12 @@ http://52.24.66.8
 
 ###A list of any third-party resources 
 http://flask.pocoo.org/docs/0.10/deploying/mod_wsgi/ : To integrate apache's wsgi module with flask app
+
 http://stackoverflow.com : General troubleshooting
+
 [Fail2ban tutorial](https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-ubuntu-14-04)
+
 [ubuntu cron](https://help.ubuntu.com/community/CronHowto)
+
 [Monit configuration](https://mmonit.com/wiki/Monit/ConfigurationExamples)
 
