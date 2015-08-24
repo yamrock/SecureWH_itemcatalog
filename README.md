@@ -16,6 +16,7 @@ http://52.24.66.8
 * Python PIP
 * Git
 * Dependencies for the application as described by this webapp's [readme] (https://github.com/yamrock/itemcatalog)
+* fail2ban (SSH multiple failure logging/banning)
 
 ####Configuration changes
 * Created a user called grader
